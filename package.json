@@ -1,7 +1,7 @@
 {
   "name": "node-app",
   "version": "1.0.0",
-  "description": "Node CI/CD App",
+  "description": "Colorful Node CI/CD App",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
